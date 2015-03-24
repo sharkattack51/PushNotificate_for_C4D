@@ -63,8 +63,8 @@ Cinema4Dでのレンダリング完了を任意のデバイス端末にPush通�
 |:---:|:----|
 |access_token|pushbulletのアカウント設定ページから`Access Token`をコピー|
 |device_name|送信したいデバイス名|
-|send_title|送信するメッセージタイトル|
-|send_body|送信するメッセージ内容|
-|send_file|プレビュー送信したい画像|
+|send_title|送信するメッセージタイトル。画像が空の場合に使用される。|
+|send_body|送信するメッセージ内容。画像が空の場合に使用される。|
+|send_file|プレビュー送信したい画像。空の場合はtitleとbodyのみ送信される。|
 
 Enjoy!
