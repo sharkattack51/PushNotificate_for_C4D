@@ -1,0 +1,1 @@
+start C:\Python27\python.exe push_notificate.py

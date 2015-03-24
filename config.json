@@ -1,0 +1,7 @@
+{
+  "access_token": "YOUR_ACCESS_TOKEN",
+  "device_name": "YOUR_DEVICE_NAME",
+  "send_title": "MESSAGE_TITLE",
+  "send_body": "MESSAGE_BODY",
+  "send_file": "FILE.png"
+}
